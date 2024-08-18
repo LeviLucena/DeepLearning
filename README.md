@@ -24,9 +24,7 @@ Análise de Dados: Aproveite o poder do NumPy para manipulação de arrays e do 
 > [!NOTE]
 > Saiba mais lendo o meu [Artigo](https://www.linkedin.com/posts/levilucena_detecaexaetodeobjetos-python-ultralyticsyolo-activity-7230636874141204480-ReDR?utm_source=share&utm_medium=member_desktop) no Linkedin 
 
-#DetecçãoDeObjetos #Python #UltralyticsYOLO #NumPy #OpenCV #VisãoComputacional #Tecnologia #DesenvolvimentoDeSoftware #MachineLearning #InteligênciaArtificial #DeepLearning
-
-## Exemplos de identificação de objetos
+## Exemplo
 ![yolov4-gif](https://github.com/user-attachments/assets/851142cd-902a-468a-82cb-74f0df040383)
 
 ## Conclusão
