@@ -18,6 +18,9 @@ Análise de Dados: Aproveite o poder do NumPy para manipulação de arrays e do 
 
 🔍 Se você está interessado em desenvolver aplicações de visão computacional, detecção de objetos ou simplesmente explorar novas tecnologias, este projeto é uma excelente oportunidade para expandir suas habilidades e conhecimentos!
 
+> [!IMPORTANT]
+> Baixe aqui o modelo [Modelo Pré-Treinado](https://drive.google.com/file/d/1Wi7PFmfaSqTKAnCzQIlvokL_Myg4j2AS/view) para facilitar na identificação dos objetos.
+
 > [!NOTE]
 > Saiba mais lendo o meu [Artigo](https://www.linkedin.com/posts/levilucena_detecaexaetodeobjetos-python-ultralyticsyolo-activity-7230636874141204480-ReDR?utm_source=share&utm_medium=member_desktop) no Linkedin 
 
